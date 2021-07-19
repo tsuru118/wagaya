@@ -1,0 +1,135 @@
+body{
+  margin: 0%;
+}
+header{
+  height: 50px;
+  background-color:rgba(000, 000, 000, 0.9);
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+.header-left{
+  float: left;
+  line-height: 50%;
+  font-size: 15px;
+  color: #FFF;
+  font-family: serif;
+}
+.header-right{
+  float: right;
+  line-height: 50%;
+}
+.header-right ul{
+  list-style: none;
+  margin: 0%;
+}
+.header-right li{
+  float: left;
+}
+.header-right a{
+  text-decoration: none;
+  display: block;
+  background-color: rgba(255, 255, 255, 0.3);
+  line-height: 50px;
+  padding: 0 15px;
+  color: #FFF;
+}
+.header-right a:hover{
+  background-color: rgba(255, 255, 255, 0.5);
+}
+.container{
+  width: 1000px;
+  margin:0 auto;
+}
+.top-wrapper{
+  background-image: url(/Users/tsurudahiroki/Desktop/html.lessson/居酒屋わが家/image/4799_IMGP2561-2.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 600px;
+}
+.top-wrapper p{
+  font-size: 60px;
+  color: #FFF;
+  padding: 50px;
+  font-family:serif;
+  padding-top: 160px;
+}
+.image{
+  padding-top: 50px;
+}
+.news{
+  background-color: #FFFFCC;
+  outline: 1px solid black;
+}
+.middle-wrapper{
+  margin-top: 30px;
+}
+.middle-wrapper h1{
+  font-size: 45px;
+}
+.middle-wrapper ul{
+  margin: 10px;
+    padding: 20px;
+}
+.bottom-wrapper{
+  height: 220px;
+}
+.link ul{
+  list-style: none;
+}
+.btn{
+  text-decoration: none;
+  width: 32%;
+  height: 200px;
+  float: left;
+  margin-right: 1%;
+}
+.btn h1{
+  background-color:rgba(255, 255, 255, 0.7);
+  color:#000;
+  font-size: 30px;
+  margin-right: 100px;
+}
+.left-btn{
+  background-image: url(/Users/tsurudahiroki/Desktop/html.lessson/居酒屋わが家/image/4958695_s.jpg);
+  background-size: cover;
+}
+.center-btn{
+  background-image: url(/Users/tsurudahiroki/Desktop/html.lessson/居酒屋わが家/image/5082598_s.jpg);
+  background-size: cover;
+}
+.right-btn{
+  background-image: url(/Users/tsurudahiroki/Desktop/html.lessson/居酒屋わが家/image/5110918_s.jpg);
+  background-size: cover;
+}
+footer{
+  background-color:#000;
+  height: 300px;
+}
+.footer-left{
+  font-size: 30px;
+  float: left;
+  font-family: serif;
+  color: #FFF;
+}
+.footer-right{
+  float: right;
+}
+.footer-right ul{
+  list-style: none;
+}
+.footer-right li{
+  float: left;
+  font-size: 35px;
+}
+.footer-right a{
+  text-decoration: none;
+  color: #FFF;
+  display: block;
+  background-color: rgba(255, 255, 255, 0.3);
+  line-height: 50px;
+  padding: 0 15px;
+}
+.footer-right a:hover{
+  background-color: rgba(255, 255, 255, 0.5);
+}
