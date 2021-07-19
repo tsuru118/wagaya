@@ -42,7 +42,7 @@ header{
   margin:0 auto;
 }
 .top-wrapper{
-  background-image: url(/Users/tsurudahiroki/Desktop/html.lessson/居酒屋わが家/image/4799_IMGP2561-2.jpg);
+  background-image: url(https://github.com/tsuru118/wagaya/blob/master/image/4799_IMGP2561-2.jpg?raw=true);
   background-size: cover;
   background-position: center;
   height: 600px;
@@ -91,15 +91,15 @@ header{
   margin-right: 100px;
 }
 .left-btn{
-  background-image: url(/Users/tsurudahiroki/Desktop/html.lessson/居酒屋わが家/image/4958695_s.jpg);
+  background-image: url(https://github.com/tsuru118/wagaya/blob/master/image/4958695_s.jpg?raw=true);
   background-size: cover;
 }
 .center-btn{
-  background-image: url(/Users/tsurudahiroki/Desktop/html.lessson/居酒屋わが家/image/5082598_s.jpg);
+  background-image: url(https://github.com/tsuru118/wagaya/blob/master/image/5082598_s.jpg?raw=true);
   background-size: cover;
 }
 .right-btn{
-  background-image: url(/Users/tsurudahiroki/Desktop/html.lessson/居酒屋わが家/image/5110918_s.jpg);
+  background-image: url(https://github.com/tsuru118/wagaya/blob/master/image/5110918_s.jpg?raw=true);
   background-size: cover;
 }
 footer{
